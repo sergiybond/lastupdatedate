@@ -18,5 +18,3 @@ function addLastUpdDate() {
     newItemforinfo.style.display = "inline-block";
     newItemforinfo.style.color = "#fff";
 }
-replaceArticledate();
-addLastUpdDate();
